@@ -8,7 +8,7 @@ class Lab1P1{
 		System.out.println(Byte.TYPE);
 		System.out.println(bb.SIZE);
 		System.out.println(Byte.BYTES);
-		System.out.println("----------Integer-----");
+		System.out.println("----------byte-----");
 		
 		
 		
@@ -21,7 +21,7 @@ class Lab1P1{
 		System.out.println(ss.TYPE);
 		System.out.println(ss.SIZE);
 		System.out.println(ss.BYTES);
-		System.out.println("----------Integer-----");
+		System.out.println("----------short-----");
 		
 		
 		
