@@ -5,6 +5,6 @@ class Lab2P4{
 		int a = s.nextInt();
 		int b = s.nextInt();      
 		
-		System.out.println((a&b)+" , "+(a/b)+" , "+(a^b));
+		System.out.println((a&b)+" , "+(a|b)+" , "+(a^b));
 		}
 }		
